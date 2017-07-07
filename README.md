@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+My First repository
+123 ITS ME HERE, I IM LUCKY AND NEW AND AM TESTING OUT THE NODE.JS
+LOVE NERDY STUFF TOO.|
